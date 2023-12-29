@@ -1,0 +1,3 @@
+# nicmacs
+
+Handy panic macros
